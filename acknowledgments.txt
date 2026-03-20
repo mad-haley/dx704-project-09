@@ -1,0 +1,6 @@
+Acknowledgments
+
+I used the DX704 course-provided code examples as a reference when developing the code for this assignment.
+
+I also used reddit and youtube.
+Last, my fiance works at google and I asked him to check my code and help me where I got stuck.
